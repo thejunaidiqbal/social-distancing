@@ -17,7 +17,7 @@ dR/dt = gamma * I
 
 N = S + E + I + R (total population is fixed)
 
-rho is the social distancing effect. (Contact rate between people)
+rho is the social distancing effect (Contact rate between people)</br>
 Rho = 1 means no social distancing. 0 means everyone is locked down.
 
 
