@@ -25,7 +25,7 @@ Rho = 1 means no social distancing. 0 means everyone is locked down.
 You can get in touch with me on my LinkedIn Profile:
 
 #### Muhammad Junaid Iqbal
-[![LinkedIn Link](https://img.shields.io/badge/LinkedIn-Muhammad%20Junaid%20Iqbal-lightgrey)](https://www.linkedin.com/in/im-mjunaidiqbal)
+[![LinkedIn Link](https://img.shields.io/badge/LinkedIn-Muhammad%20Junaid%20Iqbal-lightgrey)](https://www.linkedin.com/in/thejunaidiqbal)
 
 You can follow me on my GitHub Profile for more updates on my Open Source Projects:
 </br>
