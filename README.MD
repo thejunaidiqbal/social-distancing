@@ -1,4 +1,4 @@
-# Social Distancing:
+# Social-Distancing
 Reduce person-to-person contact in order to make spreading the disease less likely.
 Spread out the spread of disease in time as much as possible to allow hospitals to 
 help every sick patient to minimize deaths, increase survival rate. 
